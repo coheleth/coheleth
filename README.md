@@ -1,16 +1,49 @@
-### Hi there 👋
+# Why, hello there!
 
-<!--
-**Diogo-Piccirillo/Diogo-Piccirillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Summary:
+- [About me](#about-me)
+  - [Skills and interests](#skills-and-interests)
+- [Projects](#projects)
+- [Contact](#contact)
 
-Here are some ideas to get you started:
+# About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Diogo Piccirillo, a Front-End Developer and Designer. I'm constantly looking for opportunities to learn new things and develop my existing skills.
+
+
+### Skills and interests:
+* **Abilities and qualities:**
+  * Self-learning
+  * Attention to details
+  * Problem solving
+  * Empathy
+* **Programming Languages, Libraries, Frameworks, et al:**
+  * HTML (Technically not a programming language)
+  * CSS (Not a programming language either)
+  * Javascript (at last, a real programming language)
+    * Jquery
+    * Node.js (learning)
+    * React (learning)
+    * Webpack (learning)
+    * Some libraries:
+      * GreenSock
+      * Barba.js
+      * Three.js (learning)
+  * Ruby on Rails (learning)
+  * C# (learning)
+* **Programs, OSes and Tools:**
+  * Figma
+  * VS Code
+  * Linux (Ubuntu)
+  * Inkscape (learning)
+  * Unity Game Engine (learning)
+* **Languages:**
+  * Portuguese (Native)
+  * English (Advanced)
+  * Japanese (Beginner)
+  * Italian (Beginner)
+
+# Projects:
+
+# Contact:
+ [Linkedin](https://www.linkedin.com/in/diogo-piccirillo/)
