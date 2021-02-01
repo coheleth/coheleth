@@ -8,7 +8,7 @@
 
 # About me:
 
-I'm Diogo Piccirillo, a Front-End Developer and Designer. I'm constantly looking for opportunities to learn new things and develop my existing skills.
+I'm Diogo Silva, a Front-End Developer and Designer. I'm constantly looking for opportunities to expand my knowleges and develop my skills.
 
 
 ### Skills and interests:
@@ -37,11 +37,13 @@ I'm Diogo Piccirillo, a Front-End Developer and Designer. I'm constantly looking
   * Linux (Ubuntu)
   * Inkscape (learning)
   * Unity Game Engine (learning)
+* **Other skills:**
+  * Hand Drawing
 * **Languages:**
   * Portuguese (Native)
   * English (Advanced)
-  * Japanese (Beginner)
-  * Italian (Beginner)
+  * Japanese (Beginner, learning)
+  * Italian (Beginner, learning)
 
 # Projects:
 
