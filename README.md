@@ -1,3 +1,5 @@
+<img src="svg.svg" width="800" height="400" >
+
 # Why, hello there!
 
 ### Summary:
