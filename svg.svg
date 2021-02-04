@@ -13,7 +13,11 @@
           }
         }
         .fadein {
+	  font-size: 48px;
+	  font-family: sans-serif;
           animation: hello 1s ease-out;
+	  color: red;
+	  transform-origin: top-left;
         }
 			</style>
 			<div class="container">
