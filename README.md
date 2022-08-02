@@ -10,7 +10,7 @@
 
 # About me:
 
-I'm Diogo Silva, a Front-End Developer and Designer. I'm constantly looking for opportunities to expand my knowleges and develop my skills.
+I'm Diogo Silva, a Front-End Developer and Designer.
 
 
 ### Skills and interests:
