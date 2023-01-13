@@ -1,7 +1,9 @@
 
 <div align=center>
   
-# Hi! I'm Diogo, a front-end dev from São Roque, SP, Brazil 🍇
+  # Hi! I'm Diogo, a front-end dev from São Roque, SP, Brazil 🍇
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coheleth?theme=gruvbox)
 
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
