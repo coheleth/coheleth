@@ -37,4 +37,6 @@
   [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/deogop)
   [![E-Mail](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogopiccirillo@gmail.com)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coheleth&layout=compact)](https://github.com/coheleth)
+
 </div>
