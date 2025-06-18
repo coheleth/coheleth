@@ -1,7 +1,7 @@
 
 <div align=center>
   
-  # Hi! I'm Diogo, a front-end dev from São Roque, SP, Brazil 🍇
+  # Hi! I'm Diogo, an UX designer and front-end developer from São Roque, SP, Brazil 🍷
   
   <!--
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coheleth?theme=gruvbox)
@@ -12,19 +12,11 @@
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Rails](https://img.shields.io/badge/Rust-CC0000?style=for-the-badge&logo=rust&logoColor=white)
   ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![Jinja](https://img.shields.io/badge/Jinja-red?style=for-the-badge&logo=jinja&logoColor=white)
   ![Nunjucks](https://img.shields.io/badge/Nunjucks-35BF5C?style=for-the-badge&logo=nunjucks&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-CC0000?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
-  ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Godot](https://img.shields.io/badge/Godot-4588b9?style=for-the-badge&logo=godotengine&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
