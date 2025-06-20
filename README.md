@@ -2,7 +2,7 @@
 <div align=center>
   
   # Hi! I'm Diogo, an UX designer and front-end developer from São Roque, SP, Brazil 🍷
-  
+  ## 吾輩はデザイナーにあり
   <!--
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coheleth?theme=gruvbox)
   !-->
