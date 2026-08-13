@@ -29,6 +29,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-piccirillo/)
   [![E-Mail](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogopiccirillo@gmail.com)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coheleth&layout=compact)](https://github.com/coheleth)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=coheleth&layout=compact)](https://github.com/coheleth)
 
 </div>
