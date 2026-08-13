@@ -21,7 +21,6 @@
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-5551ff?style=for-the-badge&logo=figma&logoColor=white)
-  ![Tableau](https://img.shields.io/badge/Tableau-E34F26?style=for-the-badge&logo=tableau&logoColor=white)
 
   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=coheleth&layout=compact)](https://github.com/coheleth)
   
