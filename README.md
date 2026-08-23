@@ -4,21 +4,6 @@
   # Hi! I'm Diogo, an UX designer and front-end developer from São Roque, SP, Brazil 🍷
   ## 吾輩はデザイナーにあり
 
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-663399?&style=for-the-badge&logo=css&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Nextjs](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Jinja](https://img.shields.io/badge/Jinja-red?style=for-the-badge&logo=jinja&logoColor=white)
-  ![Nunjucks](https://img.shields.io/badge/Nunjucks-35BF5C?style=for-the-badge&logo=nunjucks&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-CC0000?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-5551ff?style=for-the-badge&logo=figma&logoColor=white)
-
   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=coheleth&layout=compact)](https://github.com/coheleth)
   
   ## Contact and Social:
